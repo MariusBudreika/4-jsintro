@@ -57,3 +57,8 @@ const headBack = `<head>
     <link rel="stylesheet" href="./css/reset.css">
 </head>`
 console.log(headBack);
+
+console.log('--------------------');
+
+const headBackSize = headBack.length;
+console.log(headBackSize);
