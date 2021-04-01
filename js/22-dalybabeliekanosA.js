@@ -1,5 +1,8 @@
 // 3. uzduotis
-
+/* 
+a) Suskaičiuoti, kiek nurodytame intervale yra skaičių, kurie dalijasi be liekanos 
+iš 3, 5 ir 7 atskirai: 0 - 11.
+*/
 const b = 3;
 let sarasas = 0;
 for (let i = 0; i <= 11; i++) {
