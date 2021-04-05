@@ -26,7 +26,7 @@ const bake = 200;
 const arPasieksiuPalanga = kelias > bake ? 'sorry...' : 'yaaay!';
 console.log(arPasieksiuPalanga);
 
-// kaip reikia skaidyti ternary opercija. Gali buti panasus klausymas egze.
+// kaip reikia skaidyti ternary opercija. Gali buti panasus klausimas egze.
 const koksSkaicius2 = 2 < 3 ? 4 < 5 ? 6 : 7 : 8;
 console.log(koksSkaicius2);
 
