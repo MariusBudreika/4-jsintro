@@ -22,5 +22,5 @@ return rezultatas
 console.log(dalyba(3, 5));
 console.log(dalyba(Infinity, 5));
 console.log(dalyba(5, NaN));
-console.log(dalyba(2, 'labas'));
-console.log(dalyba(-7, [2]));
+console.log(dalyba(5, 'labas'));
+console.log(dalyba(-8, [4, 2]));
